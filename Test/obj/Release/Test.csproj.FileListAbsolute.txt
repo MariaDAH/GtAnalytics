@@ -1,0 +1,15 @@
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\Test\bin\Release\Test.dll
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\Test\bin\Release\Test.pdb
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\Test\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\Test\obj\Release\Test.dll
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\Test\obj\Release\Test.pdb
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\Test\bin\Release\Test.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\Test\bin\Release\Test.pdb
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\Test\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\Test\obj\Release\Test.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\Test\obj\Release\Test.pdb
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\Test\bin\Release\Test.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\Test\bin\Release\Test.pdb
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\Test\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\Test\obj\Release\Test.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\Test\obj\Release\Test.pdb

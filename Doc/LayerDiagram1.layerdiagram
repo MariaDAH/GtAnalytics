@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<layerModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/SimpleShapesModel" dslVersion="1.0.0.0" Id="b5cedb90-7d1a-4c0b-9307-96ed31091335" xmlns="http://schemas.microsoft.com/VisualStudio/TeamArchitect/LayerDesigner">
+  <layers>
+    <layer Id="1d86679e-bd82-482f-b316-9779873dbea1" name="Distributed Services">
+      <dependencyToLayers>
+        <dependencyFromLayerToLayer Id="0fd98eb1-72f2-4f82-b8b0-5a48fba0c9c2" direction="Forward">
+          <layerMoniker Id="18383b16-76ec-4ea3-8aff-c2b791cf6d02" />
+        </dependencyFromLayerToLayer>
+      </dependencyToLayers>
+      <childLayers>
+        <layer Id="f3265ec9-c762-4406-a615-b9d250e2544f" name="Windows Service">
+          <dependencyToLayers>
+            <dependencyFromLayerToLayer Id="1a11fe5f-6233-4f01-a94f-459e773e8700" direction="Forward">
+              <layerMoniker Id="aa49ea89-3596-4e2a-81b0-8d044a18dede" />
+            </dependencyFromLayerToLayer>
+          </dependencyToLayers>
+        </layer>
+      </childLayers>
+    </layer>
+    <layer Id="18383b16-76ec-4ea3-8aff-c2b791cf6d02" name="Management">
+      <childLayers>
+        <layer Id="e4e15ea2-ed64-44cc-848d-c04a57427015" name="App.Config" />
+        <layer Id="d45eb2e6-ee11-463c-9588-2dae77b1b46e" name="ExceptionHandling" />
+        <layer Id="1c806558-6517-4ac9-9234-99aec0805e4b" name="LogWriter" />
+      </childLayers>
+    </layer>
+    <layer Id="aa49ea89-3596-4e2a-81b0-8d044a18dede" name="Bussiness Logic">
+      <dependencyToLayers>
+        <dependencyFromLayerToLayer Id="17aab758-5c36-40a2-983e-b068fff61560" direction="Forward">
+          <layerMoniker Id="3c31238d-d61d-43ae-814b-50638ba7ea3d" />
+        </dependencyFromLayerToLayer>
+      </dependencyToLayers>
+      <childLayers>
+        <layer Id="fadd79e8-4356-4564-b08e-6a5f8eceae86" name="Analytics Service Object">
+          <dependencyToLayers>
+            <dependencyFromLayerToLayer Id="78bcc471-b9af-40f5-8e04-f9741e8128c2" direction="Forward">
+              <layerMoniker Id="ed7ef091-e9b9-4dde-9712-b02c68b1397e" />
+            </dependencyFromLayerToLayer>
+            <dependencyFromLayerToLayer Id="3d492379-ec02-4219-bbae-3490f2916a4f" direction="Forward">
+              <layerMoniker Id="bef04e76-5481-4897-bccd-27fc2d224d95" />
+            </dependencyFromLayerToLayer>
+          </dependencyToLayers>
+        </layer>
+        <layer Id="ed7ef091-e9b9-4dde-9712-b02c68b1397e" name="Proxy">
+          <dependencyToLayers>
+            <dependencyFromLayerToLayer Id="846bb3a2-950e-4772-abf9-bb9fb7e5fb7e" direction="Forward">
+              <layerMoniker Id="bef04e76-5481-4897-bccd-27fc2d224d95" />
+            </dependencyFromLayerToLayer>
+          </dependencyToLayers>
+        </layer>
+        <layer Id="bef04e76-5481-4897-bccd-27fc2d224d95" name="Entities" />
+      </childLayers>
+    </layer>
+    <layer Id="c8bc01fc-cec1-4ce1-b48a-5a5666ea036c" name="Security">
+      <childLayers>
+        <layer Id="3c31238d-d61d-43ae-814b-50638ba7ea3d" name="Auth2Register" />
+      </childLayers>
+    </layer>
+    <layer Id="078c53e9-5b8e-47de-9458-3760256cadd7" name="Google Analytics Service">
+      <dependencyToLayers>
+        <dependencyFromLayerToLayer Id="debf3ec6-79ac-4af1-881a-fcc85c9718fd" direction="Bidirectional">
+          <layerMoniker Id="ed7ef091-e9b9-4dde-9712-b02c68b1397e" />
+        </dependencyFromLayerToLayer>
+      </dependencyToLayers>
+    </layer>
+  </layers>
+</layerModel>

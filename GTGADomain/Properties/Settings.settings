@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Google.Analytics.GTGATracker.GTGADomain.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ProxyUrl" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://proxy.andrade.einsanet.es:8080</Value>
+    </Setting>
+    <Setting Name="AnalyticsProxyUsername" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">bdesarrollo</Value>
+    </Setting>
+    <Setting Name="AnalyticsProxyPassword" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">vmvach20</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,30 @@
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\Main\Test\bin\Debug\Test.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\Main\Test\bin\Debug\Test.pdb
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\Main\Test\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\Main\Test\obj\Debug\Test.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\Main\Test\obj\Debug\Test.pdb
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\Test\bin\Debug\Test.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\Test\bin\Debug\Test.pdb
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\Test\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\Test\obj\Debug\Test.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\Test\obj\Debug\Test.pdb
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\Test\bin\Debug\Test.dll
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\Test\bin\Debug\Test.pdb
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\Test\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\Test\obj\Debug\Test.dll
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\Test\obj\Debug\Test.pdb
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\Test\bin\Debug\Test.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\Test\bin\Debug\Test.pdb
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\Test\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\Test\obj\Debug\Test.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\Test\obj\Debug\Test.pdb
+F:\GTGATracker\Test\bin\Debug\Test.dll
+F:\GTGATracker\Test\bin\Debug\Test.pdb
+F:\GTGATracker\Test\obj\Debug\ResolveAssemblyReference.cache
+F:\GTGATracker\Test\obj\Debug\Test.dll
+F:\GTGATracker\Test\obj\Debug\Test.pdb
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\Test\bin\Debug\Test.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\Test\bin\Debug\Test.pdb
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\Test\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\Test\obj\Debug\Test.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\Test\obj\Debug\Test.pdb

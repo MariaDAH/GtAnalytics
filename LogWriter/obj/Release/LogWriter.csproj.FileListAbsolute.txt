@@ -1,0 +1,24 @@
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\LogWriter\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\LogWriter\bin\Release\LogWriter.dll
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\LogWriter\bin\Release\LogWriter.pdb
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\LogWriter\bin\Release\log4net.dll
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\LogWriter\obj\Release\LogWriter.dll
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\LogWriter\obj\Release\LogWriter.pdb
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\LogWriter\bin\Release\LogWriter.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\LogWriter\bin\Release\LogWriter.pdb
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\LogWriter\bin\Release\log4net.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\LogWriter\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\LogWriter\obj\Release\LogWriter.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\LogWriter\obj\Release\LogWriter.pdb
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\LogWriter\bin\Release\LogWriter.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\LogWriter\bin\Release\LogWriter.pdb
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\LogWriter\bin\Release\log4net.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\LogWriter\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\LogWriter\obj\Release\LogWriter.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\LogWriter\obj\Release\LogWriter.pdb
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\LogWriter\bin\Release\LogWriter.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\LogWriter\bin\Release\LogWriter.pdb
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\LogWriter\bin\Release\log4net.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\LogWriter\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\LogWriter\obj\Release\LogWriter.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\LogWriter\obj\Release\LogWriter.pdb

@@ -1,0 +1,15 @@
+﻿------ Operación Generar iniciada: proyecto: GTGAData, configuración: Debug Any CPU ------
+  GTGAData -> C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGAData\bin\Debug\GTGATracker.GTGAData.dll
+------ Operación Generar iniciada: proyecto: Test (Test\Test), configuración: Debug Any CPU ------
+  Test -> C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\Test\bin\Debug\Test.dll
+------ Operación Generar iniciada: proyecto: GTGADomain, configuración: Debug Any CPU ------
+  GTGADomain -> C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGADomain\bin\Debug\GTGATracker.GTGADomain.dll
+------ Operación Generar iniciada: proyecto: GTGApplication, configuración: Debug Any CPU ------
+  GTGApplication -> C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGApplication\bin\Debug\GTGATracker.GTGApplication.dll
+------ Operación Generar omitida: proyecto: GTGAWinService, configuración: Debug x86 ------
+Proyecto no seleccionado para generarse para esta configuración de solución 
+------ Operación Generar iniciada: proyecto: GTGATrackingForm, configuración: Debug Any CPU ------
+  GTGATrackingForm -> C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGATrackingForm\bin\Debug\GTGATracker.GTGATrackingForm.exe
+------ Operación Generar omitida: proyecto: Setup, configuración: Debug ------
+Proyecto no seleccionado para generarse para esta configuración de solución 
+========== Generar: 5 correctos o actualizados, 0 incorrectos, 2 omitidos ==========

@@ -1,0 +1,124 @@
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGApplication\bin\Release\GTGATracker.GTGApplication.dll
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGApplication\bin\Release\GTGATracker.GTGApplication.pdb
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGApplication\bin\Release\DotNetOpenAuth.dll
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGApplication\bin\Release\Google.Apis.Analytics.v3.dll
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGApplication\bin\Release\Google.Apis.Authentication.OAuth2.dll
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGApplication\bin\Release\Google.Apis.dll
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGApplication\bin\Release\Google.GData.Analytics.dll
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGApplication\bin\Release\Google.GData.Client.dll
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGApplication\bin\Release\Google.GData.Extensions.dll
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGApplication\bin\Release\GTGATracker.GTGAData.dll
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGApplication\bin\Release\GTGATracker.GTGADomain.dll
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGApplication\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGApplication\bin\Release\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGApplication\bin\Release\Microsoft.Practices.Unity.dll
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGApplication\bin\Release\log4net.dll
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGApplication\bin\Release\Newtonsoft.Json.Net35.dll
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGApplication\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGApplication\bin\Release\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGApplication\bin\Release\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGApplication\bin\Release\GTGATracker.GTGAData.pdb
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGApplication\bin\Release\GTGATracker.GTGADomain.pdb
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGApplication\bin\Release\Google.Apis.pdb
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGApplication\bin\Release\Google.Apis.xml
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGApplication\bin\Release\Google.Apis.Analytics.v3.pdb
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGApplication\bin\Release\Google.Apis.Analytics.v3.xml
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGApplication\bin\Release\Google.Apis.Authentication.OAuth2.pdb
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGApplication\bin\Release\Google.Apis.Authentication.OAuth2.xml
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGApplication\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.pdb
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGApplication\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGApplication\bin\Release\Newtonsoft.Json.Net35.xml
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGApplication\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGApplication\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGApplication\bin\Release\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGApplication\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGApplication\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGApplication\obj\Release\GTGATracker.GTGApplication.dll
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGApplication\obj\Release\GTGATracker.GTGApplication.pdb
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGApplication\bin\Release\GTGATracker.GTGApplication.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGApplication\bin\Release\GTGATracker.GTGApplication.pdb
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGApplication\bin\Release\DotNetOpenAuth.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGApplication\bin\Release\Google.Apis.Analytics.v3.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGApplication\bin\Release\Google.Apis.Authentication.OAuth2.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGApplication\bin\Release\Google.Apis.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGApplication\bin\Release\Google.GData.Analytics.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGApplication\bin\Release\Google.GData.Client.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGApplication\bin\Release\Google.GData.Extensions.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGApplication\bin\Release\GTGATracker.GTGAData.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGApplication\bin\Release\GTGATracker.GTGADomain.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGApplication\bin\Release\Microsoft.Practices.Unity.Configuration.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGApplication\bin\Release\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGApplication\bin\Release\log4net.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGApplication\bin\Release\Newtonsoft.Json.Net35.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGApplication\bin\Release\Newtonsoft.Json.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGApplication\bin\Release\Microsoft.Practices.ServiceLocation.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGApplication\bin\Release\GTGATracker.GTGAData.pdb
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGApplication\bin\Release\GTGATracker.GTGADomain.pdb
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGApplication\bin\Release\Google.Apis.pdb
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGApplication\bin\Release\Google.Apis.xml
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGApplication\bin\Release\Google.Apis.Analytics.v3.pdb
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGApplication\bin\Release\Google.Apis.Analytics.v3.xml
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGApplication\bin\Release\Google.Apis.Authentication.OAuth2.pdb
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGApplication\bin\Release\Google.Apis.Authentication.OAuth2.xml
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGApplication\bin\Release\Newtonsoft.Json.Net35.xml
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGApplication\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGApplication\obj\Release\GTGATracker.GTGApplication.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGApplication\obj\Release\GTGATracker.GTGApplication.pdb
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGApplication\bin\Release\GTGATracker.GTGApplication.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGApplication\bin\Release\GTGATracker.GTGApplication.pdb
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGApplication\bin\Release\DotNetOpenAuth.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGApplication\bin\Release\Google.Apis.Analytics.v3.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGApplication\bin\Release\Google.Apis.Authentication.OAuth2.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGApplication\bin\Release\Google.Apis.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGApplication\bin\Release\Google.GData.Analytics.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGApplication\bin\Release\Google.GData.Client.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGApplication\bin\Release\Google.GData.Extensions.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGApplication\bin\Release\GTGATracker.GTGAData.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGApplication\bin\Release\GTGATracker.GTGADomain.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGApplication\bin\Release\log4net.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGApplication\bin\Release\Microsoft.Practices.Unity.Configuration.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGApplication\bin\Release\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGApplication\bin\Release\Newtonsoft.Json.Net35.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGApplication\bin\Release\Newtonsoft.Json.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGApplication\bin\Release\Microsoft.Practices.ServiceLocation.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGApplication\bin\Release\GTGATracker.GTGAData.pdb
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGApplication\bin\Release\GTGATracker.GTGADomain.pdb
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGApplication\bin\Release\Google.Apis.pdb
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGApplication\bin\Release\Google.Apis.xml
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGApplication\bin\Release\Google.Apis.Analytics.v3.pdb
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGApplication\bin\Release\Google.Apis.Analytics.v3.xml
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGApplication\bin\Release\Google.Apis.Authentication.OAuth2.pdb
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGApplication\bin\Release\Google.Apis.Authentication.OAuth2.xml
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGApplication\bin\Release\Newtonsoft.Json.Net35.xml
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGApplication\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGApplication\obj\Release\GTGATracker.GTGApplication.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGApplication\obj\Release\GTGATracker.GTGApplication.pdb
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGApplication\bin\Release\GTGATracker.GTGApplication.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGApplication\bin\Release\GTGATracker.GTGApplication.pdb
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGApplication\bin\Release\DotNetOpenAuth.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGApplication\bin\Release\Google.Apis.Analytics.v3.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGApplication\bin\Release\Google.Apis.Authentication.OAuth2.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGApplication\bin\Release\Google.Apis.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGApplication\bin\Release\Google.GData.Analytics.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGApplication\bin\Release\Google.GData.Client.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGApplication\bin\Release\Google.GData.Extensions.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGApplication\bin\Release\GTGATracker.GTGAData.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGApplication\bin\Release\GTGATracker.GTGADomain.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGApplication\bin\Release\log4net.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGApplication\bin\Release\Microsoft.Practices.Unity.Configuration.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGApplication\bin\Release\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGApplication\bin\Release\Newtonsoft.Json.Net35.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGApplication\bin\Release\Newtonsoft.Json.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGApplication\bin\Release\Microsoft.Practices.ServiceLocation.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGApplication\bin\Release\GTGATracker.GTGAData.pdb
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGApplication\bin\Release\GTGATracker.GTGADomain.pdb
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGApplication\bin\Release\Google.Apis.pdb
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGApplication\bin\Release\Google.Apis.xml
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGApplication\bin\Release\Google.Apis.Analytics.v3.pdb
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGApplication\bin\Release\Google.Apis.Analytics.v3.xml
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGApplication\bin\Release\Google.Apis.Authentication.OAuth2.pdb
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGApplication\bin\Release\Google.Apis.Authentication.OAuth2.xml
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGApplication\bin\Release\Newtonsoft.Json.Net35.xml
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGApplication\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGApplication\obj\Release\GTGATracker.GTGApplication.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGApplication\obj\Release\GTGATracker.GTGApplication.pdb

@@ -1,0 +1,530 @@
+C:\TFS\Delta-Team\GTGATracker\Main\GTGATrackingForm\bin\Debug\GTGATracker.GTGATrackingForm.exe.config
+C:\TFS\Delta-Team\GTGATracker\Main\GTGATrackingForm\bin\Debug\GTGATracker.GTGATrackingForm.exe
+C:\TFS\Delta-Team\GTGATracker\Main\GTGATrackingForm\bin\Debug\GTGATracker.GTGATrackingForm.pdb
+C:\TFS\Delta-Team\GTGATracker\Main\GTGATrackingForm\bin\Debug\DotNetOpenAuth.dll
+C:\TFS\Delta-Team\GTGATracker\Main\GTGATrackingForm\bin\Debug\Google.Apis.Authentication.OAuth2.dll
+C:\TFS\Delta-Team\GTGATracker\Main\GTGATrackingForm\bin\Debug\Google.Apis.dll
+C:\TFS\Delta-Team\GTGATracker\Main\GTGATrackingForm\bin\Debug\Google.GData.Analytics.dll
+C:\TFS\Delta-Team\GTGATracker\Main\GTGATrackingForm\bin\Debug\Google.GData.Client.dll
+C:\TFS\Delta-Team\GTGATracker\Main\GTGATrackingForm\bin\Debug\Google.GData.Extensions.dll
+C:\TFS\Delta-Team\GTGATracker\Main\GTGATrackingForm\bin\Debug\GTGATracker.GTGAData.dll
+C:\TFS\Delta-Team\GTGATracker\Main\GTGATrackingForm\bin\Debug\GTGATracker.GTGADomain.dll
+C:\TFS\Delta-Team\GTGATracker\Main\GTGATrackingForm\bin\Debug\GTGATracker.GTGApplication.dll
+C:\TFS\Delta-Team\GTGATracker\Main\GTGATrackingForm\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\TFS\Delta-Team\GTGATracker\Main\GTGATrackingForm\bin\Debug\Microsoft.Practices.Unity.dll
+C:\TFS\Delta-Team\GTGATracker\Main\GTGATrackingForm\bin\Debug\log4net.dll
+C:\TFS\Delta-Team\GTGATracker\Main\GTGATrackingForm\bin\Debug\Newtonsoft.Json.Net35.dll
+C:\TFS\Delta-Team\GTGATracker\Main\GTGATrackingForm\bin\Debug\Newtonsoft.Json.dll
+C:\TFS\Delta-Team\GTGATracker\Main\GTGATrackingForm\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\TFS\Delta-Team\GTGATracker\Main\GTGATrackingForm\bin\Debug\GTGATracker.GTGAData.pdb
+C:\TFS\Delta-Team\GTGATracker\Main\GTGATrackingForm\bin\Debug\GTGATracker.GTGADomain.pdb
+C:\TFS\Delta-Team\GTGATracker\Main\GTGATrackingForm\bin\Debug\GTGATracker.GTGApplication.pdb
+C:\TFS\Delta-Team\GTGATracker\Main\GTGATrackingForm\bin\Debug\Google.Apis.pdb
+C:\TFS\Delta-Team\GTGATracker\Main\GTGATrackingForm\bin\Debug\Google.Apis.xml
+C:\TFS\Delta-Team\GTGATracker\Main\GTGATrackingForm\bin\Debug\Google.Apis.Authentication.OAuth2.pdb
+C:\TFS\Delta-Team\GTGATracker\Main\GTGATrackingForm\bin\Debug\Google.Apis.Authentication.OAuth2.xml
+C:\TFS\Delta-Team\GTGATracker\Main\GTGATrackingForm\bin\Debug\Newtonsoft.Json.Net35.xml
+C:\TFS\Delta-Team\GTGATracker\Main\GTGATrackingForm\obj\Debug\ResolveAssemblyReference.cache
+C:\TFS\Delta-Team\GTGATracker\Main\GTGATrackingForm\obj\Debug\Google.Analytics.GTGATracker.GTGATrackingForm.Properties.Resources.resources
+C:\TFS\Delta-Team\GTGATracker\Main\GTGATrackingForm\obj\Debug\GTGATrackingForm.TrackingForm.resources
+C:\TFS\Delta-Team\GTGATracker\Main\GTGATrackingForm\obj\Debug\GenerateResource.read.1.tlog
+C:\TFS\Delta-Team\GTGATracker\Main\GTGATrackingForm\obj\Debug\GenerateResource.write.1.tlog
+C:\TFS\Delta-Team\GTGATracker\Main\GTGATrackingForm\obj\Debug\GTGATracker.GTGATrackingForm.exe
+C:\TFS\Delta-Team\GTGATracker\Main\GTGATrackingForm\obj\Debug\GTGATracker.GTGATrackingForm.pdb
+C:\Documents and Settings\bdesarrollo\Mis documentos\EjemplosTracking\Main\GTGATrackingForm\bin\Debug\GTGATracker.GTGATrackingForm.exe.config
+C:\Documents and Settings\bdesarrollo\Mis documentos\EjemplosTracking\Main\GTGATrackingForm\bin\Debug\GTGATracker.GTGATrackingForm.exe
+C:\Documents and Settings\bdesarrollo\Mis documentos\EjemplosTracking\Main\GTGATrackingForm\bin\Debug\GTGATracker.GTGATrackingForm.pdb
+C:\Documents and Settings\bdesarrollo\Mis documentos\EjemplosTracking\Main\GTGATrackingForm\bin\Debug\DotNetOpenAuth.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\EjemplosTracking\Main\GTGATrackingForm\bin\Debug\Google.Apis.Authentication.OAuth2.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\EjemplosTracking\Main\GTGATrackingForm\bin\Debug\Google.Apis.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\EjemplosTracking\Main\GTGATrackingForm\bin\Debug\Google.GData.Analytics.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\EjemplosTracking\Main\GTGATrackingForm\bin\Debug\Google.GData.Client.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\EjemplosTracking\Main\GTGATrackingForm\bin\Debug\Google.GData.Extensions.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\EjemplosTracking\Main\GTGATrackingForm\bin\Debug\GTGATracker.GTGAData.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\EjemplosTracking\Main\GTGATrackingForm\bin\Debug\GTGATracker.GTGADomain.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\EjemplosTracking\Main\GTGATrackingForm\bin\Debug\GTGATracker.GTGApplication.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\EjemplosTracking\Main\GTGATrackingForm\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\EjemplosTracking\Main\GTGATrackingForm\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\EjemplosTracking\Main\GTGATrackingForm\bin\Debug\log4net.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\EjemplosTracking\Main\GTGATrackingForm\bin\Debug\Newtonsoft.Json.Net35.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\EjemplosTracking\Main\GTGATrackingForm\bin\Debug\Newtonsoft.Json.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\EjemplosTracking\Main\GTGATrackingForm\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\EjemplosTracking\Main\GTGATrackingForm\bin\Debug\GTGATracker.GTGAData.pdb
+C:\Documents and Settings\bdesarrollo\Mis documentos\EjemplosTracking\Main\GTGATrackingForm\bin\Debug\GTGATracker.GTGADomain.pdb
+C:\Documents and Settings\bdesarrollo\Mis documentos\EjemplosTracking\Main\GTGATrackingForm\bin\Debug\GTGATracker.GTGApplication.pdb
+C:\Documents and Settings\bdesarrollo\Mis documentos\EjemplosTracking\Main\GTGATrackingForm\bin\Debug\Google.Apis.pdb
+C:\Documents and Settings\bdesarrollo\Mis documentos\EjemplosTracking\Main\GTGATrackingForm\bin\Debug\Google.Apis.xml
+C:\Documents and Settings\bdesarrollo\Mis documentos\EjemplosTracking\Main\GTGATrackingForm\bin\Debug\Google.Apis.Authentication.OAuth2.pdb
+C:\Documents and Settings\bdesarrollo\Mis documentos\EjemplosTracking\Main\GTGATrackingForm\bin\Debug\Google.Apis.Authentication.OAuth2.xml
+C:\Documents and Settings\bdesarrollo\Mis documentos\EjemplosTracking\Main\GTGATrackingForm\bin\Debug\Newtonsoft.Json.Net35.xml
+C:\Documents and Settings\bdesarrollo\Mis documentos\EjemplosTracking\Main\GTGATrackingForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\bdesarrollo\Mis documentos\EjemplosTracking\Main\GTGATrackingForm\obj\Debug\Google.Analytics.GTGATracker.GTGATrackingForm.Properties.Resources.resources
+C:\Documents and Settings\bdesarrollo\Mis documentos\EjemplosTracking\Main\GTGATrackingForm\obj\Debug\Google.Analytics.GTGATracker.GTGATrackingForm.TableResults.resources
+C:\Documents and Settings\bdesarrollo\Mis documentos\EjemplosTracking\Main\GTGATrackingForm\obj\Debug\GTGATrackingForm.TrackingForm.resources
+C:\Documents and Settings\bdesarrollo\Mis documentos\EjemplosTracking\Main\GTGATrackingForm\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\bdesarrollo\Mis documentos\EjemplosTracking\Main\GTGATrackingForm\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\bdesarrollo\Mis documentos\EjemplosTracking\Main\GTGATrackingForm\obj\Debug\GTGATracker.GTGATrackingForm.exe
+C:\Documents and Settings\bdesarrollo\Mis documentos\EjemplosTracking\Main\GTGATrackingForm\obj\Debug\GTGATracker.GTGATrackingForm.pdb
+E:\GtMotive\Main\GTGATrackingForm\bin\Debug\GTGATracker.GTGATrackingForm.exe.config
+E:\GtMotive\Main\GTGATrackingForm\bin\Debug\GTGATracker.GTGATrackingForm.exe
+E:\GtMotive\Main\GTGATrackingForm\bin\Debug\GTGATracker.GTGATrackingForm.pdb
+E:\GtMotive\Main\GTGATrackingForm\bin\Debug\DotNetOpenAuth.dll
+E:\GtMotive\Main\GTGATrackingForm\bin\Debug\Google.Apis.Authentication.OAuth2.dll
+E:\GtMotive\Main\GTGATrackingForm\bin\Debug\Google.Apis.dll
+E:\GtMotive\Main\GTGATrackingForm\bin\Debug\Google.GData.Analytics.dll
+E:\GtMotive\Main\GTGATrackingForm\bin\Debug\Google.GData.Client.dll
+E:\GtMotive\Main\GTGATrackingForm\bin\Debug\Google.GData.Extensions.dll
+E:\GtMotive\Main\GTGATrackingForm\bin\Debug\GTGATracker.GTGAData.dll
+E:\GtMotive\Main\GTGATrackingForm\bin\Debug\GTGATracker.GTGADomain.dll
+E:\GtMotive\Main\GTGATrackingForm\bin\Debug\GTGATracker.GTGApplication.dll
+E:\GtMotive\Main\GTGATrackingForm\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\GtMotive\Main\GTGATrackingForm\bin\Debug\Microsoft.Practices.Unity.dll
+E:\GtMotive\Main\GTGATrackingForm\bin\Debug\log4net.dll
+E:\GtMotive\Main\GTGATrackingForm\bin\Debug\Newtonsoft.Json.Net35.dll
+E:\GtMotive\Main\GTGATrackingForm\bin\Debug\Newtonsoft.Json.dll
+E:\GtMotive\Main\GTGATrackingForm\bin\Debug\GTGATracker.GTGAData.pdb
+E:\GtMotive\Main\GTGATrackingForm\bin\Debug\GTGATracker.GTGADomain.pdb
+E:\GtMotive\Main\GTGATrackingForm\bin\Debug\GTGATracker.GTGApplication.pdb
+E:\GtMotive\Main\GTGATrackingForm\bin\Debug\Google.Apis.pdb
+E:\GtMotive\Main\GTGATrackingForm\bin\Debug\Google.Apis.xml
+E:\GtMotive\Main\GTGATrackingForm\bin\Debug\Google.Apis.Authentication.OAuth2.pdb
+E:\GtMotive\Main\GTGATrackingForm\bin\Debug\Google.Apis.Authentication.OAuth2.xml
+E:\GtMotive\Main\GTGATrackingForm\bin\Debug\Newtonsoft.Json.Net35.xml
+E:\GtMotive\Main\GTGATrackingForm\obj\Debug\ResolveAssemblyReference.cache
+E:\GtMotive\Main\GTGATrackingForm\obj\Debug\Google.Analytics.GTGATracker.GTGATrackingForm.Properties.Resources.resources
+E:\GtMotive\Main\GTGATrackingForm\obj\Debug\Google.Analytics.GTGATracker.GTGATrackingForm.TableResults.resources
+E:\GtMotive\Main\GTGATrackingForm\obj\Debug\GTGATrackingForm.TrackingForm.resources
+E:\GtMotive\Main\GTGATrackingForm\obj\Debug\GenerateResource.read.1.tlog
+E:\GtMotive\Main\GTGATrackingForm\obj\Debug\GenerateResource.write.1.tlog
+E:\GtMotive\Main\GTGATrackingForm\obj\Debug\GTGATracker.GTGATrackingForm.exe
+E:\GtMotive\Main\GTGATrackingForm\obj\Debug\GTGATracker.GTGATrackingForm.pdb
+C:\Documents and Settings\bdesarrollo\Escritorio\Main\GTGATrackingForm\bin\Debug\GTGATracker.GTGATrackingForm.exe.config
+C:\Documents and Settings\bdesarrollo\Escritorio\Main\GTGATrackingForm\bin\Debug\GTGATracker.GTGATrackingForm.exe
+C:\Documents and Settings\bdesarrollo\Escritorio\Main\GTGATrackingForm\bin\Debug\GTGATracker.GTGATrackingForm.pdb
+C:\Documents and Settings\bdesarrollo\Escritorio\Main\GTGATrackingForm\bin\Debug\DotNetOpenAuth.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\Main\GTGATrackingForm\bin\Debug\Google.Apis.Authentication.OAuth2.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\Main\GTGATrackingForm\bin\Debug\Google.Apis.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\Main\GTGATrackingForm\bin\Debug\Google.GData.Analytics.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\Main\GTGATrackingForm\bin\Debug\Google.GData.Client.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\Main\GTGATrackingForm\bin\Debug\Google.GData.Extensions.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\Main\GTGATrackingForm\bin\Debug\GTGATracker.GTGAData.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\Main\GTGATrackingForm\bin\Debug\GTGATracker.GTGADomain.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\Main\GTGATrackingForm\bin\Debug\GTGATracker.GTGApplication.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\Main\GTGATrackingForm\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\Main\GTGATrackingForm\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\Main\GTGATrackingForm\bin\Debug\log4net.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\Main\GTGATrackingForm\bin\Debug\Newtonsoft.Json.Net35.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\Main\GTGATrackingForm\bin\Debug\Newtonsoft.Json.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\Main\GTGATrackingForm\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\Main\GTGATrackingForm\bin\Debug\GTGATracker.GTGAData.pdb
+C:\Documents and Settings\bdesarrollo\Escritorio\Main\GTGATrackingForm\bin\Debug\GTGATracker.GTGADomain.pdb
+C:\Documents and Settings\bdesarrollo\Escritorio\Main\GTGATrackingForm\bin\Debug\GTGATracker.GTGApplication.pdb
+C:\Documents and Settings\bdesarrollo\Escritorio\Main\GTGATrackingForm\bin\Debug\Google.Apis.pdb
+C:\Documents and Settings\bdesarrollo\Escritorio\Main\GTGATrackingForm\bin\Debug\Google.Apis.xml
+C:\Documents and Settings\bdesarrollo\Escritorio\Main\GTGATrackingForm\bin\Debug\Google.Apis.Authentication.OAuth2.pdb
+C:\Documents and Settings\bdesarrollo\Escritorio\Main\GTGATrackingForm\bin\Debug\Google.Apis.Authentication.OAuth2.xml
+C:\Documents and Settings\bdesarrollo\Escritorio\Main\GTGATrackingForm\bin\Debug\Newtonsoft.Json.Net35.xml
+C:\Documents and Settings\bdesarrollo\Escritorio\Main\GTGATrackingForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\bdesarrollo\Escritorio\Main\GTGATrackingForm\obj\Debug\Google.Analytics.GTGATracker.GTGATrackingForm.Properties.Resources.resources
+C:\Documents and Settings\bdesarrollo\Escritorio\Main\GTGATrackingForm\obj\Debug\Google.Analytics.GTGATracker.GTGATrackingForm.TableResults.resources
+C:\Documents and Settings\bdesarrollo\Escritorio\Main\GTGATrackingForm\obj\Debug\GTGATrackingForm.TrackingForm.resources
+C:\Documents and Settings\bdesarrollo\Escritorio\Main\GTGATrackingForm\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\bdesarrollo\Escritorio\Main\GTGATrackingForm\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\bdesarrollo\Escritorio\Main\GTGATrackingForm\obj\Debug\GTGATracker.GTGATrackingForm.exe
+C:\Documents and Settings\bdesarrollo\Escritorio\Main\GTGATrackingForm\obj\Debug\GTGATracker.GTGATrackingForm.pdb
+C:\Users\maria\Desktop\Main\GTGATrackingForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\maria\Desktop\Main\GTGATrackingForm\obj\Debug\Google.Analytics.GTGATracker.GTGATrackingForm.Properties.Resources.resources
+C:\Users\maria\Desktop\Main\GTGATrackingForm\obj\Debug\GTGATrackingForm.TrackingForm.resources
+C:\Users\maria\Desktop\Main\GTGATrackingForm\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\maria\Desktop\Main\GTGATrackingForm\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\maria\Desktop\Main\GTGATrackingForm\bin\Debug\GTGATracker.GTGATrackingForm.exe.config
+C:\Users\maria\Desktop\Main\GTGATrackingForm\bin\Debug\GTGATracker.GTGATrackingForm.exe
+C:\Users\maria\Desktop\Main\GTGATrackingForm\bin\Debug\GTGATracker.GTGATrackingForm.pdb
+C:\Users\maria\Desktop\Main\GTGATrackingForm\bin\Debug\DotNetOpenAuth.dll
+C:\Users\maria\Desktop\Main\GTGATrackingForm\bin\Debug\Google.Apis.Authentication.OAuth2.dll
+C:\Users\maria\Desktop\Main\GTGATrackingForm\bin\Debug\Google.Apis.dll
+C:\Users\maria\Desktop\Main\GTGATrackingForm\bin\Debug\Google.GData.Analytics.dll
+C:\Users\maria\Desktop\Main\GTGATrackingForm\bin\Debug\Google.GData.Client.dll
+C:\Users\maria\Desktop\Main\GTGATrackingForm\bin\Debug\Google.GData.Extensions.dll
+C:\Users\maria\Desktop\Main\GTGATrackingForm\bin\Debug\GTGATracker.GTGAData.dll
+C:\Users\maria\Desktop\Main\GTGATrackingForm\bin\Debug\GTGATracker.GTGADomain.dll
+C:\Users\maria\Desktop\Main\GTGATrackingForm\bin\Debug\GTGATracker.GTGApplication.dll
+C:\Users\maria\Desktop\Main\GTGATrackingForm\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\maria\Desktop\Main\GTGATrackingForm\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\maria\Desktop\Main\GTGATrackingForm\bin\Debug\log4net.dll
+C:\Users\maria\Desktop\Main\GTGATrackingForm\bin\Debug\Newtonsoft.Json.Net35.dll
+C:\Users\maria\Desktop\Main\GTGATrackingForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\maria\Desktop\Main\GTGATrackingForm\bin\Debug\GTGATracker.GTGAData.pdb
+C:\Users\maria\Desktop\Main\GTGATrackingForm\bin\Debug\GTGATracker.GTGADomain.pdb
+C:\Users\maria\Desktop\Main\GTGATrackingForm\bin\Debug\GTGATracker.GTGApplication.pdb
+C:\Users\maria\Desktop\Main\GTGATrackingForm\bin\Debug\Google.Apis.pdb
+C:\Users\maria\Desktop\Main\GTGATrackingForm\bin\Debug\Google.Apis.xml
+C:\Users\maria\Desktop\Main\GTGATrackingForm\bin\Debug\Google.Apis.Authentication.OAuth2.pdb
+C:\Users\maria\Desktop\Main\GTGATrackingForm\bin\Debug\Google.Apis.Authentication.OAuth2.xml
+C:\Users\maria\Desktop\Main\GTGATrackingForm\bin\Debug\Newtonsoft.Json.Net35.xml
+C:\Users\maria\Desktop\Main\GTGATrackingForm\obj\Debug\GTGATracker.GTGATrackingForm.exe
+C:\Users\maria\Desktop\Main\GTGATrackingForm\obj\Debug\GTGATracker.GTGATrackingForm.pdb
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\Main\GTGATrackingForm\bin\Debug\GTGATracker.GTGATrackingForm.exe.config
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\Main\GTGATrackingForm\bin\Debug\GTGATracker.GTGATrackingForm.exe
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\Main\GTGATrackingForm\bin\Debug\GTGATracker.GTGATrackingForm.pdb
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\Main\GTGATrackingForm\bin\Debug\DotNetOpenAuth.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\Main\GTGATrackingForm\bin\Debug\Google.Apis.Authentication.OAuth2.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\Main\GTGATrackingForm\bin\Debug\Google.Apis.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\Main\GTGATrackingForm\bin\Debug\Google.GData.Analytics.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\Main\GTGATrackingForm\bin\Debug\Google.GData.Client.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\Main\GTGATrackingForm\bin\Debug\Google.GData.Extensions.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\Main\GTGATrackingForm\bin\Debug\GTGATracker.GTGAData.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\Main\GTGATrackingForm\bin\Debug\GTGATracker.GTGADomain.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\Main\GTGATrackingForm\bin\Debug\GTGATracker.GTGApplication.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\Main\GTGATrackingForm\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\Main\GTGATrackingForm\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\Main\GTGATrackingForm\bin\Debug\log4net.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\Main\GTGATrackingForm\bin\Debug\Newtonsoft.Json.Net35.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\Main\GTGATrackingForm\bin\Debug\Newtonsoft.Json.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\Main\GTGATrackingForm\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\Main\GTGATrackingForm\bin\Debug\GTGATracker.GTGAData.pdb
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\Main\GTGATrackingForm\bin\Debug\GTGATracker.GTGADomain.pdb
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\Main\GTGATrackingForm\bin\Debug\GTGATracker.GTGApplication.pdb
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\Main\GTGATrackingForm\bin\Debug\Google.Apis.pdb
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\Main\GTGATrackingForm\bin\Debug\Google.Apis.xml
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\Main\GTGATrackingForm\bin\Debug\Google.Apis.Authentication.OAuth2.pdb
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\Main\GTGATrackingForm\bin\Debug\Google.Apis.Authentication.OAuth2.xml
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\Main\GTGATrackingForm\bin\Debug\Newtonsoft.Json.Net35.xml
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\Main\GTGATrackingForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\Main\GTGATrackingForm\obj\Debug\Google.Analytics.GTGATracker.GTGATrackingForm.Properties.Resources.resources
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\Main\GTGATrackingForm\obj\Debug\GTGATrackingForm.TrackingForm.resources
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\Main\GTGATrackingForm\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\Main\GTGATrackingForm\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\Main\GTGATrackingForm\obj\Debug\GTGATracker.GTGATrackingForm.exe
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\Main\GTGATrackingForm\obj\Debug\GTGATracker.GTGATrackingForm.pdb
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\GTGATrackingForm\bin\Debug\GTGATracker.GTGATrackingForm.exe.config
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\GTGATrackingForm\bin\Debug\GTGATracker.GTGATrackingForm.exe
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\GTGATrackingForm\bin\Debug\GTGATracker.GTGATrackingForm.pdb
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\GTGATrackingForm\bin\Debug\DotNetOpenAuth.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\GTGATrackingForm\bin\Debug\Google.Apis.Analytics.v3.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\GTGATrackingForm\bin\Debug\Google.Apis.Authentication.OAuth2.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\GTGATrackingForm\bin\Debug\Google.Apis.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\GTGATrackingForm\bin\Debug\Google.GData.Analytics.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\GTGATrackingForm\bin\Debug\Google.GData.Client.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\GTGATrackingForm\bin\Debug\Google.GData.Extensions.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\GTGATrackingForm\bin\Debug\GTGATracker.GTGAData.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\GTGATrackingForm\bin\Debug\GTGATracker.GTGADomain.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\GTGATrackingForm\bin\Debug\GTGATracker.GTGApplication.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\GTGATrackingForm\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\GTGATrackingForm\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\GTGATrackingForm\bin\Debug\log4net.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\GTGATrackingForm\bin\Debug\Newtonsoft.Json.Net35.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\GTGATrackingForm\bin\Debug\Newtonsoft.Json.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\GTGATrackingForm\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\GTGATrackingForm\bin\Debug\GTGATracker.GTGAData.pdb
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\GTGATrackingForm\bin\Debug\GTGATracker.GTGADomain.pdb
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\GTGATrackingForm\bin\Debug\GTGATracker.GTGApplication.pdb
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\GTGATrackingForm\bin\Debug\Google.Apis.pdb
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\GTGATrackingForm\bin\Debug\Google.Apis.xml
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\GTGATrackingForm\bin\Debug\Google.Apis.Analytics.v3.pdb
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\GTGATrackingForm\bin\Debug\Google.Apis.Analytics.v3.xml
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\GTGATrackingForm\bin\Debug\Google.Apis.Authentication.OAuth2.pdb
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\GTGATrackingForm\bin\Debug\Google.Apis.Authentication.OAuth2.xml
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\GTGATrackingForm\bin\Debug\Newtonsoft.Json.Net35.xml
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\GTGATrackingForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\GTGATrackingForm\obj\Debug\Google.Analytics.GTGATracker.GTGATrackingForm.Properties.Resources.resources
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\GTGATrackingForm\obj\Debug\GTGATrackingForm.TrackingForm.resources
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\GTGATrackingForm\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\GTGATrackingForm\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\GTGATrackingForm\obj\Debug\GTGATracker.GTGATrackingForm.exe
+C:\Documents and Settings\bdesarrollo\Mis documentos\GTGATracker\GTGATrackingForm\obj\Debug\GTGATracker.GTGATrackingForm.pdb
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGATrackingForm\bin\Debug\GTGATracker.GTGATrackingForm.exe.config
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGATrackingForm\obj\Debug\GTGATracker.GTGATrackingForm.exe
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGATrackingForm\obj\Debug\GTGATracker.GTGATrackingForm.pdb
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGATrackingForm\bin\Debug\GTGATracker.GTGATrackingForm.exe
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGATrackingForm\bin\Debug\GTGATracker.GTGATrackingForm.pdb
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGATrackingForm\bin\Debug\DotNetOpenAuth.dll
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGATrackingForm\bin\Debug\Google.Apis.Analytics.v3.dll
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGATrackingForm\bin\Debug\Google.Apis.Authentication.OAuth2.dll
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGATrackingForm\bin\Debug\Google.Apis.dll
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGATrackingForm\bin\Debug\Google.GData.Analytics.dll
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGATrackingForm\bin\Debug\Google.GData.Client.dll
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGATrackingForm\bin\Debug\Google.GData.Extensions.dll
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGATrackingForm\bin\Debug\GTGATracker.GTGAData.dll
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGATrackingForm\bin\Debug\GTGATracker.GTGADomain.dll
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGATrackingForm\bin\Debug\GTGATracker.GTGApplication.dll
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGATrackingForm\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGATrackingForm\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGATrackingForm\bin\Debug\log4net.dll
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGATrackingForm\bin\Debug\Newtonsoft.Json.Net35.dll
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGATrackingForm\bin\Debug\GTGATracker.GTGAData.pdb
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGATrackingForm\bin\Debug\GTGATracker.GTGADomain.pdb
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGATrackingForm\bin\Debug\GTGATracker.GTGApplication.pdb
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGATrackingForm\bin\Debug\Google.Apis.pdb
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGATrackingForm\bin\Debug\Google.Apis.xml
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGATrackingForm\bin\Debug\Google.Apis.Analytics.v3.pdb
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGATrackingForm\bin\Debug\Google.Apis.Analytics.v3.xml
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGATrackingForm\bin\Debug\Google.Apis.Authentication.OAuth2.pdb
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGATrackingForm\bin\Debug\Google.Apis.Authentication.OAuth2.xml
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGATrackingForm\bin\Debug\Newtonsoft.Json.Net35.xml
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGATrackingForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGATrackingForm\obj\Debug\Google.Analytics.GTGATracker.GTGATrackingForm.Properties.Resources.resources
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGATrackingForm\obj\Debug\GTGATrackingForm.TrackingForm.resources
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGATrackingForm\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGATrackingForm\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGATrackingForm\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Dani\Desktop\GTGATracker2\GTGATracker\GTGATrackingForm\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGATrackingForm\bin\Debug\GTGATracker.GTGATrackingForm.exe.config
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGATrackingForm\bin\Debug\GTGATracker.GTGATrackingForm.exe
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGATrackingForm\bin\Debug\GTGATracker.GTGATrackingForm.pdb
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGATrackingForm\bin\Debug\DotNetOpenAuth.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGATrackingForm\bin\Debug\Google.Apis.Analytics.v3.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGATrackingForm\bin\Debug\Google.Apis.Authentication.OAuth2.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGATrackingForm\bin\Debug\Google.Apis.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGATrackingForm\bin\Debug\Google.GData.Analytics.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGATrackingForm\bin\Debug\Google.GData.Client.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGATrackingForm\bin\Debug\Google.GData.Extensions.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGATrackingForm\bin\Debug\GTGATracker.GTGAData.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGATrackingForm\bin\Debug\GTGATracker.GTGADomain.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGATrackingForm\bin\Debug\GTGATracker.GTGApplication.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGATrackingForm\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGATrackingForm\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGATrackingForm\bin\Debug\log4net.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGATrackingForm\bin\Debug\Newtonsoft.Json.Net35.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGATrackingForm\bin\Debug\Newtonsoft.Json.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGATrackingForm\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGATrackingForm\bin\Debug\GTGATracker.GTGAData.pdb
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGATrackingForm\bin\Debug\GTGATracker.GTGADomain.pdb
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGATrackingForm\bin\Debug\GTGATracker.GTGApplication.pdb
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGATrackingForm\bin\Debug\Google.Apis.pdb
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGATrackingForm\bin\Debug\Google.Apis.xml
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGATrackingForm\bin\Debug\Google.Apis.Analytics.v3.pdb
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGATrackingForm\bin\Debug\Google.Apis.Analytics.v3.xml
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGATrackingForm\bin\Debug\Google.Apis.Authentication.OAuth2.pdb
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGATrackingForm\bin\Debug\Google.Apis.Authentication.OAuth2.xml
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGATrackingForm\bin\Debug\Newtonsoft.Json.Net35.xml
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGATrackingForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGATrackingForm\obj\Debug\Google.Analytics.GTGATracker.GTGATrackingForm.Properties.Resources.resources
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGATrackingForm\obj\Debug\GTGATrackingForm.TrackingForm.resources
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGATrackingForm\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGATrackingForm\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGATrackingForm\obj\Debug\GTGATracker.GTGATrackingForm.exe
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker Final\GTGATrackingForm\obj\Debug\GTGATracker.GTGATrackingForm.pdb
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGATrackingForm\bin\Debug\GTGATracker.GTGATrackingForm.exe.config
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGATrackingForm\bin\Debug\GTGATracker.GTGATrackingForm.exe
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGATrackingForm\bin\Debug\GTGATracker.GTGATrackingForm.pdb
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGATrackingForm\bin\Debug\DotNetOpenAuth.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGATrackingForm\bin\Debug\Google.Apis.Analytics.v3.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGATrackingForm\bin\Debug\Google.Apis.Authentication.OAuth2.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGATrackingForm\bin\Debug\Google.Apis.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGATrackingForm\bin\Debug\Google.GData.Analytics.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGATrackingForm\bin\Debug\Google.GData.Client.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGATrackingForm\bin\Debug\Google.GData.Extensions.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGATrackingForm\bin\Debug\GTGATracker.GTGAData.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGATrackingForm\bin\Debug\GTGATracker.GTGADomain.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGATrackingForm\bin\Debug\GTGATracker.GTGApplication.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGATrackingForm\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGATrackingForm\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGATrackingForm\bin\Debug\log4net.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGATrackingForm\bin\Debug\Newtonsoft.Json.Net35.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGATrackingForm\bin\Debug\Newtonsoft.Json.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGATrackingForm\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGATrackingForm\bin\Debug\GTGATracker.GTGAData.pdb
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGATrackingForm\bin\Debug\GTGATracker.GTGADomain.pdb
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGATrackingForm\bin\Debug\GTGATracker.GTGApplication.pdb
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGATrackingForm\bin\Debug\Google.Apis.pdb
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGATrackingForm\bin\Debug\Google.Apis.xml
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGATrackingForm\bin\Debug\Google.Apis.Analytics.v3.pdb
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGATrackingForm\bin\Debug\Google.Apis.Analytics.v3.xml
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGATrackingForm\bin\Debug\Google.Apis.Authentication.OAuth2.pdb
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGATrackingForm\bin\Debug\Google.Apis.Authentication.OAuth2.xml
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGATrackingForm\bin\Debug\Newtonsoft.Json.Net35.xml
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGATrackingForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGATrackingForm\obj\Debug\Google.Analytics.GTGATracker.GTGATrackingForm.Properties.Resources.resources
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGATrackingForm\obj\Debug\GTGATrackingForm.TrackingForm.resources
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGATrackingForm\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGATrackingForm\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGATrackingForm\obj\Debug\GTGATracker.GTGATrackingForm.exe
+C:\Documents and Settings\bdesarrollo\Escritorio\GTGATracker\GTGATrackingForm\obj\Debug\GTGATracker.GTGATrackingForm.pdb
+F:\GTGATracker\GTGATrackingForm\bin\Debug\GTGATracker.GTGATrackingForm.exe.config
+F:\GTGATracker\GTGATrackingForm\bin\Debug\GTGATracker.GTGATrackingForm.exe
+F:\GTGATracker\GTGATrackingForm\bin\Debug\GTGATracker.GTGATrackingForm.pdb
+F:\GTGATracker\GTGATrackingForm\bin\Debug\DotNetOpenAuth.dll
+F:\GTGATracker\GTGATrackingForm\bin\Debug\Google.Apis.Analytics.v3.dll
+F:\GTGATracker\GTGATrackingForm\bin\Debug\Google.Apis.Authentication.OAuth2.dll
+F:\GTGATracker\GTGATrackingForm\bin\Debug\Google.Apis.dll
+F:\GTGATracker\GTGATrackingForm\bin\Debug\Google.GData.Analytics.dll
+F:\GTGATracker\GTGATrackingForm\bin\Debug\Google.GData.Client.dll
+F:\GTGATracker\GTGATrackingForm\bin\Debug\Google.GData.Extensions.dll
+F:\GTGATracker\GTGATrackingForm\bin\Debug\GTGATracker.GTGAData.dll
+F:\GTGATracker\GTGATrackingForm\bin\Debug\GTGATracker.GTGADomain.dll
+F:\GTGATracker\GTGATrackingForm\bin\Debug\GTGATracker.GTGApplication.dll
+F:\GTGATracker\GTGATrackingForm\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+F:\GTGATracker\GTGATrackingForm\bin\Debug\Microsoft.Practices.Unity.dll
+F:\GTGATracker\GTGATrackingForm\bin\Debug\log4net.dll
+F:\GTGATracker\GTGATrackingForm\bin\Debug\Newtonsoft.Json.Net35.dll
+F:\GTGATracker\GTGATrackingForm\bin\Debug\Newtonsoft.Json.dll
+F:\GTGATracker\GTGATrackingForm\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\GTGATracker\GTGATrackingForm\bin\Debug\GTGATracker.GTGAData.pdb
+F:\GTGATracker\GTGATrackingForm\bin\Debug\GTGATracker.GTGADomain.pdb
+F:\GTGATracker\GTGATrackingForm\bin\Debug\GTGATracker.GTGApplication.pdb
+F:\GTGATracker\GTGATrackingForm\bin\Debug\Google.Apis.pdb
+F:\GTGATracker\GTGATrackingForm\bin\Debug\Google.Apis.xml
+F:\GTGATracker\GTGATrackingForm\bin\Debug\Google.Apis.Analytics.v3.pdb
+F:\GTGATracker\GTGATrackingForm\bin\Debug\Google.Apis.Analytics.v3.xml
+F:\GTGATracker\GTGATrackingForm\bin\Debug\Google.Apis.Authentication.OAuth2.pdb
+F:\GTGATracker\GTGATrackingForm\bin\Debug\Google.Apis.Authentication.OAuth2.xml
+F:\GTGATracker\GTGATrackingForm\bin\Debug\Newtonsoft.Json.Net35.xml
+F:\GTGATracker\GTGATrackingForm\obj\Debug\ResolveAssemblyReference.cache
+F:\GTGATracker\GTGATrackingForm\obj\Debug\Google.Analytics.GTGATracker.GTGATrackingForm.Properties.Resources.resources
+F:\GTGATracker\GTGATrackingForm\obj\Debug\GTGATrackingForm.TrackingForm.resources
+F:\GTGATracker\GTGATrackingForm\obj\Debug\GenerateResource.read.1.tlog
+F:\GTGATracker\GTGATrackingForm\obj\Debug\GenerateResource.write.1.tlog
+F:\GTGATracker\GTGATrackingForm\obj\Debug\GTGATracker.GTGATrackingForm.exe
+F:\GTGATracker\GTGATrackingForm\obj\Debug\GTGATracker.GTGATrackingForm.pdb
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGATrackingForm\bin\Debug\GTGATracker.GTGATrackingForm.exe.config
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGATrackingForm\bin\Debug\GTGATracker.GTGATrackingForm.exe
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGATrackingForm\bin\Debug\GTGATracker.GTGATrackingForm.pdb
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGATrackingForm\bin\Debug\DotNetOpenAuth.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGATrackingForm\bin\Debug\Google.Apis.Analytics.v3.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGATrackingForm\bin\Debug\Google.Apis.Authentication.OAuth2.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGATrackingForm\bin\Debug\Google.Apis.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGATrackingForm\bin\Debug\Google.GData.Analytics.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGATrackingForm\bin\Debug\Google.GData.Client.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGATrackingForm\bin\Debug\Google.GData.Extensions.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGATrackingForm\bin\Debug\GTGATracker.GTGAData.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGATrackingForm\bin\Debug\GTGATracker.GTGADomain.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGATrackingForm\bin\Debug\GTGATracker.GTGApplication.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGATrackingForm\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGATrackingForm\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGATrackingForm\bin\Debug\log4net.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGATrackingForm\bin\Debug\Newtonsoft.Json.Net35.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGATrackingForm\bin\Debug\Newtonsoft.Json.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGATrackingForm\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGATrackingForm\bin\Debug\GTGATracker.GTGAData.pdb
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGATrackingForm\bin\Debug\GTGATracker.GTGADomain.pdb
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGATrackingForm\bin\Debug\GTGATracker.GTGApplication.pdb
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGATrackingForm\bin\Debug\Google.Apis.pdb
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGATrackingForm\bin\Debug\Google.Apis.xml
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGATrackingForm\bin\Debug\Google.Apis.Analytics.v3.pdb
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGATrackingForm\bin\Debug\Google.Apis.Analytics.v3.xml
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGATrackingForm\bin\Debug\Google.Apis.Authentication.OAuth2.pdb
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGATrackingForm\bin\Debug\Google.Apis.Authentication.OAuth2.xml
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGATrackingForm\bin\Debug\Newtonsoft.Json.Net35.xml
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGATrackingForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGATrackingForm\obj\Debug\Google.Analytics.GTGATracker.GTGATrackingForm.Properties.Resources.resources
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGATrackingForm\obj\Debug\GTGATrackingForm.TrackingForm.resources
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGATrackingForm\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGATrackingForm\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGATrackingForm\obj\Debug\GTGATracker.GTGATrackingForm.exe
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATracker\GTGATrackingForm\obj\Debug\GTGATracker.GTGATrackingForm.pdb
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATrackerFin\GTGATrackingForm\bin\Debug\GTGATracker.GTGATrackingForm.exe.config
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATrackerFin\GTGATrackingForm\obj\Debug\GTGATracker.GTGATrackingForm.exe
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATrackerFin\GTGATrackingForm\obj\Debug\GTGATracker.GTGATrackingForm.pdb
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATrackerFin\GTGATrackingForm\bin\Debug\GTGATracker.GTGATrackingForm.exe
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATrackerFin\GTGATrackingForm\bin\Debug\GTGATracker.GTGATrackingForm.pdb
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATrackerFin\GTGATrackingForm\bin\Debug\DotNetOpenAuth.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATrackerFin\GTGATrackingForm\bin\Debug\Google.Apis.Analytics.v3.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATrackerFin\GTGATrackingForm\bin\Debug\Google.Apis.Authentication.OAuth2.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATrackerFin\GTGATrackingForm\bin\Debug\Google.Apis.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATrackerFin\GTGATrackingForm\bin\Debug\Google.GData.Analytics.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATrackerFin\GTGATrackingForm\bin\Debug\Google.GData.Client.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATrackerFin\GTGATrackingForm\bin\Debug\Google.GData.Extensions.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATrackerFin\GTGATrackingForm\bin\Debug\GTGATracker.GTGAData.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATrackerFin\GTGATrackingForm\bin\Debug\GTGATracker.GTGADomain.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATrackerFin\GTGATrackingForm\bin\Debug\GTGATracker.GTGApplication.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATrackerFin\GTGATrackingForm\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATrackerFin\GTGATrackingForm\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATrackerFin\GTGATrackingForm\bin\Debug\log4net.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATrackerFin\GTGATrackingForm\bin\Debug\Newtonsoft.Json.Net35.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATrackerFin\GTGATrackingForm\bin\Debug\Newtonsoft.Json.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATrackerFin\GTGATrackingForm\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATrackerFin\GTGATrackingForm\bin\Debug\GTGATracker.GTGAData.pdb
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATrackerFin\GTGATrackingForm\bin\Debug\GTGATracker.GTGADomain.pdb
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATrackerFin\GTGATrackingForm\bin\Debug\GTGATracker.GTGApplication.pdb
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATrackerFin\GTGATrackingForm\bin\Debug\Google.Apis.pdb
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATrackerFin\GTGATrackingForm\bin\Debug\Google.Apis.xml
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATrackerFin\GTGATrackingForm\bin\Debug\Google.Apis.Analytics.v3.pdb
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATrackerFin\GTGATrackingForm\bin\Debug\Google.Apis.Analytics.v3.xml
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATrackerFin\GTGATrackingForm\bin\Debug\Google.Apis.Authentication.OAuth2.pdb
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATrackerFin\GTGATrackingForm\bin\Debug\Google.Apis.Authentication.OAuth2.xml
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATrackerFin\GTGATrackingForm\bin\Debug\Newtonsoft.Json.Net35.xml
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATrackerFin\GTGATrackingForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATrackerFin\GTGATrackingForm\obj\Debug\Google.Analytics.GTGATracker.GTGATrackingForm.Properties.Resources.resources
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATrackerFin\GTGATrackingForm\obj\Debug\GTGATrackingForm.TrackingForm.resources
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATrackerFin\GTGATrackingForm\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\bdesarrollo\Mis documentos\Tracking\GTGATrackerFin\GTGATrackingForm\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\samsung\Desktop\GTGATrackerFin\GTGATrackingForm\bin\Debug\GTGATracker.GTGATrackingForm.exe.config
+C:\Users\samsung\Desktop\GTGATrackerFin\GTGATrackingForm\bin\Debug\GTGATracker.GTGATrackingForm.exe
+C:\Users\samsung\Desktop\GTGATrackerFin\GTGATrackingForm\bin\Debug\GTGATracker.GTGATrackingForm.pdb
+C:\Users\samsung\Desktop\GTGATrackerFin\GTGATrackingForm\bin\Debug\DotNetOpenAuth.dll
+C:\Users\samsung\Desktop\GTGATrackerFin\GTGATrackingForm\bin\Debug\Google.Apis.Analytics.v3.dll
+C:\Users\samsung\Desktop\GTGATrackerFin\GTGATrackingForm\bin\Debug\Google.Apis.Authentication.OAuth2.dll
+C:\Users\samsung\Desktop\GTGATrackerFin\GTGATrackingForm\bin\Debug\Google.Apis.dll
+C:\Users\samsung\Desktop\GTGATrackerFin\GTGATrackingForm\bin\Debug\Google.GData.Analytics.dll
+C:\Users\samsung\Desktop\GTGATrackerFin\GTGATrackingForm\bin\Debug\Google.GData.Client.dll
+C:\Users\samsung\Desktop\GTGATrackerFin\GTGATrackingForm\bin\Debug\Google.GData.Extensions.dll
+C:\Users\samsung\Desktop\GTGATrackerFin\GTGATrackingForm\bin\Debug\GTGATracker.GTGAData.dll
+C:\Users\samsung\Desktop\GTGATrackerFin\GTGATrackingForm\bin\Debug\GTGATracker.GTGADomain.dll
+C:\Users\samsung\Desktop\GTGATrackerFin\GTGATrackingForm\bin\Debug\GTGATracker.GTGApplication.dll
+C:\Users\samsung\Desktop\GTGATrackerFin\GTGATrackingForm\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\samsung\Desktop\GTGATrackerFin\GTGATrackingForm\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\samsung\Desktop\GTGATrackerFin\GTGATrackingForm\bin\Debug\log4net.dll
+C:\Users\samsung\Desktop\GTGATrackerFin\GTGATrackingForm\bin\Debug\Newtonsoft.Json.Net35.dll
+C:\Users\samsung\Desktop\GTGATrackerFin\GTGATrackingForm\bin\Debug\GTGATracker.GTGAData.pdb
+C:\Users\samsung\Desktop\GTGATrackerFin\GTGATrackingForm\bin\Debug\GTGATracker.GTGADomain.pdb
+C:\Users\samsung\Desktop\GTGATrackerFin\GTGATrackingForm\bin\Debug\GTGATracker.GTGApplication.pdb
+C:\Users\samsung\Desktop\GTGATrackerFin\GTGATrackingForm\bin\Debug\Google.Apis.pdb
+C:\Users\samsung\Desktop\GTGATrackerFin\GTGATrackingForm\bin\Debug\Google.Apis.xml
+C:\Users\samsung\Desktop\GTGATrackerFin\GTGATrackingForm\bin\Debug\Google.Apis.Analytics.v3.pdb
+C:\Users\samsung\Desktop\GTGATrackerFin\GTGATrackingForm\bin\Debug\Google.Apis.Analytics.v3.xml
+C:\Users\samsung\Desktop\GTGATrackerFin\GTGATrackingForm\bin\Debug\Google.Apis.Authentication.OAuth2.pdb
+C:\Users\samsung\Desktop\GTGATrackerFin\GTGATrackingForm\bin\Debug\Google.Apis.Authentication.OAuth2.xml
+C:\Users\samsung\Desktop\GTGATrackerFin\GTGATrackingForm\bin\Debug\Newtonsoft.Json.Net35.xml
+C:\Users\samsung\Desktop\GTGATrackerFin\GTGATrackingForm\obj\Debug\GTGATrackingForm.csprojResolveAssemblyReference.cache
+C:\Users\samsung\Desktop\GTGATrackerFin\GTGATrackingForm\obj\Debug\Google.Analytics.GTGATracker.GTGATrackingForm.Properties.Resources.resources
+C:\Users\samsung\Desktop\GTGATrackerFin\GTGATrackingForm\obj\Debug\GTGATrackingForm.TrackingForm.resources
+C:\Users\samsung\Desktop\GTGATrackerFin\GTGATrackingForm\obj\Debug\GTGATrackingForm.csproj.GenerateResource.Cache
+C:\Users\samsung\Desktop\GTGATrackerFin\GTGATrackingForm\obj\Debug\GTGATracker.GTGATrackingForm.exe
+C:\Users\samsung\Desktop\GTGATrackerFin\GTGATrackingForm\obj\Debug\GTGATracker.GTGATrackingForm.pdb
+E:\GtMotive\GTGATrackerFin\GTGATrackingForm\bin\Debug\GTGATracker.GTGATrackingForm.exe.config
+E:\GtMotive\GTGATrackerFin\GTGATrackingForm\bin\Debug\GTGATracker.GTGATrackingForm.exe
+E:\GtMotive\GTGATrackerFin\GTGATrackingForm\bin\Debug\GTGATracker.GTGATrackingForm.pdb
+E:\GtMotive\GTGATrackerFin\GTGATrackingForm\bin\Debug\DotNetOpenAuth.dll
+E:\GtMotive\GTGATrackerFin\GTGATrackingForm\bin\Debug\Google.Apis.Analytics.v3.dll
+E:\GtMotive\GTGATrackerFin\GTGATrackingForm\bin\Debug\Google.Apis.Authentication.OAuth2.dll
+E:\GtMotive\GTGATrackerFin\GTGATrackingForm\bin\Debug\Google.Apis.dll
+E:\GtMotive\GTGATrackerFin\GTGATrackingForm\bin\Debug\Google.GData.Analytics.dll
+E:\GtMotive\GTGATrackerFin\GTGATrackingForm\bin\Debug\Google.GData.Client.dll
+E:\GtMotive\GTGATrackerFin\GTGATrackingForm\bin\Debug\Google.GData.Extensions.dll
+E:\GtMotive\GTGATrackerFin\GTGATrackingForm\bin\Debug\GTGATracker.GTGAData.dll
+E:\GtMotive\GTGATrackerFin\GTGATrackingForm\bin\Debug\GTGATracker.GTGADomain.dll
+E:\GtMotive\GTGATrackerFin\GTGATrackingForm\bin\Debug\GTGATracker.GTGApplication.dll
+E:\GtMotive\GTGATrackerFin\GTGATrackingForm\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\GtMotive\GTGATrackerFin\GTGATrackingForm\bin\Debug\Microsoft.Practices.Unity.dll
+E:\GtMotive\GTGATrackerFin\GTGATrackingForm\bin\Debug\log4net.dll
+E:\GtMotive\GTGATrackerFin\GTGATrackingForm\bin\Debug\Newtonsoft.Json.Net35.dll
+E:\GtMotive\GTGATrackerFin\GTGATrackingForm\bin\Debug\Newtonsoft.Json.dll
+E:\GtMotive\GTGATrackerFin\GTGATrackingForm\bin\Debug\GTGATracker.GTGAData.pdb
+E:\GtMotive\GTGATrackerFin\GTGATrackingForm\bin\Debug\GTGATracker.GTGADomain.pdb
+E:\GtMotive\GTGATrackerFin\GTGATrackingForm\bin\Debug\GTGATracker.GTGApplication.pdb
+E:\GtMotive\GTGATrackerFin\GTGATrackingForm\bin\Debug\Google.Apis.pdb
+E:\GtMotive\GTGATrackerFin\GTGATrackingForm\bin\Debug\Google.Apis.xml
+E:\GtMotive\GTGATrackerFin\GTGATrackingForm\bin\Debug\Google.Apis.Analytics.v3.pdb
+E:\GtMotive\GTGATrackerFin\GTGATrackingForm\bin\Debug\Google.Apis.Analytics.v3.xml
+E:\GtMotive\GTGATrackerFin\GTGATrackingForm\bin\Debug\Google.Apis.Authentication.OAuth2.pdb
+E:\GtMotive\GTGATrackerFin\GTGATrackingForm\bin\Debug\Google.Apis.Authentication.OAuth2.xml
+E:\GtMotive\GTGATrackerFin\GTGATrackingForm\bin\Debug\Newtonsoft.Json.Net35.xml
+E:\GtMotive\GTGATrackerFin\GTGATrackingForm\obj\Debug\GTGATrackingForm.csprojResolveAssemblyReference.cache
+E:\GtMotive\GTGATrackerFin\GTGATrackingForm\obj\Debug\Google.Analytics.GTGATracker.GTGATrackingForm.Properties.Resources.resources
+E:\GtMotive\GTGATrackerFin\GTGATrackingForm\obj\Debug\GTGATrackingForm.TrackingForm.resources
+E:\GtMotive\GTGATrackerFin\GTGATrackingForm\obj\Debug\GTGATrackingForm.csproj.GenerateResource.Cache
+E:\GtMotive\GTGATrackerFin\GTGATrackingForm\obj\Debug\GTGATracker.GTGATrackingForm.exe
+E:\GtMotive\GTGATrackerFin\GTGATrackingForm\obj\Debug\GTGATracker.GTGATrackingForm.pdb
+E:\GtMotive\GTAnalytics\GTGATrackerFin\GTGATrackingForm\bin\Debug\GTGATracker.GTGATrackingForm.exe.config
+E:\GtMotive\GTAnalytics\GTGATrackerFin\GTGATrackingForm\obj\Debug\GTGATracker.GTGATrackingForm.exe
+E:\GtMotive\GTAnalytics\GTGATrackerFin\GTGATrackingForm\obj\Debug\GTGATracker.GTGATrackingForm.pdb
+E:\GtMotive\GTAnalytics\GTGATracker\GTGATrackingForm\bin\Debug\GTGATracker.GTGATrackingForm.exe.config
+E:\GtMotive\GTAnalytics\GTGATracker\GTGATrackingForm\obj\Debug\GTGATracker.GTGATrackingForm.exe
+E:\GtMotive\GTAnalytics\GTGATracker\GTGATrackingForm\obj\Debug\GTGATracker.GTGATrackingForm.pdb
+D:\GtMotive\GTAnalytics\GTGATracker\GTGATrackingForm\bin\Debug\GTGATracker.GTGATrackingForm.exe.config
+D:\GtMotive\GTAnalytics\GTGATracker\GTGATrackingForm\obj\Debug\GTGATracker.GTGATrackingForm.exe
+D:\GtMotive\GTAnalytics\GTGATracker\GTGATrackingForm\obj\Debug\GTGATracker.GTGATrackingForm.pdb
+C:\Users\mixid\Documents\GitHubProjects\GTGATracker\GTGATrackingForm\bin\Debug\GTGATracker.GTGATrackingForm.exe.config
+C:\Users\mixid\Documents\GitHubProjects\GTGATracker\GTGATrackingForm\obj\Debug\GTGATracker.GTGATrackingForm.exe
+C:\Users\mixid\Documents\GitHubProjects\GTGATracker\GTGATrackingForm\obj\Debug\GTGATracker.GTGATrackingForm.pdb
